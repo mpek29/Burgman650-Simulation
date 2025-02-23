@@ -23,7 +23,7 @@
 ## 📐 System Study & Simulation Preview
 | 📜 Assembly Drawing | 🖥️ System Model | 🏗️ Simulation |
 |-----------|-----------|-----------|
-| <img src="assets/img/1.png" width="300" height="300"> | <img src="assets/img/2.png" width="300" height="300"> | <img src="assets/img/3.png" width="300" height="300"> |
+| <img src="assets/img/1.png"> | <img src="assets/img/2.png"> | <img src="assets/img/3.png"> |
 
 ## 🌟 License
 This project is open-source. Feel free to use, modify, and contribute! 🚀
